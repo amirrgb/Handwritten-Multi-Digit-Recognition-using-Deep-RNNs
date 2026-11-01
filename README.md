@@ -1,6 +1,6 @@
 # Handwritten Multi-Digit Recognition using Deep RNNs
 
-This project focuses on detecting and recognizing multi-digit numbers from vehicle plate images using deep learning techniques. The model utilizes **Recurrent Neural Networks (RNN)** to learn digit sequences from image data, based on the **CAR-A** and **CAR-B** datasets.
+This project focuses on detecting and recognizing multi-digit numbers from vehicle plate images using deep learning techniques. The model utilizes **Recurrent Neural Networks (RNN)** to learn digit sequences from image data, based on the [**CAR-A** and **CAR-B**](https://www.orand.cl/icfhr2014-hdsr/) datasets ([download dataset](https://www.orand.cl/orand_car/ORAND-CAR-2014.tar.gz)).
 
 ## Features
 
